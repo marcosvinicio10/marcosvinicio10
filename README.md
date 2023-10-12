@@ -26,19 +26,16 @@
 
 #### Cursos
 
-- [Desenvolvimento Seguro: estratégias de segurança para dados de entrada](https://www.alura.com.br/curso-online-desenvolvimento-seguro-estrategias-seguranca-dados-entrada)
-- [Pentest: explorando vulnerabilidades em aplicações web](https://www.alura.com.br/curso-online-pentest-explorando-vulnerabilidades-aplicacoes-web)
-- [Pentest: investigando vulnerabilidades em um servidor de aplicações web](https://www.alura.com.br/curso-online-pentest-vulnerabilidades-servidor-aplicacoes-web)
-- [Segurança de rede: firewall, WAF e SIEM](https://www.alura.com.br/curso-online-seguranca-rede-firewall-waf-siem)
-- [Segurança de rede: proxy reverso, SSH e DNS](https://www.alura.com.br/curso-online-seguranca-rede-proxy-reverso-ssh-dns)
-- [Segurança de rede: manipule logs e dashboards](https://www.alura.com.br/curso-online-seguranca-rede-manipule-logs-dashboards)
-
+- [AfroGames: Desenvolvimento de Jogos Basico](https://www.alura.com.br/curso-online-desenvolvimento-seguro-estrategias-seguranca-dados-entrada)
+- [AfroGames: Desenvolvimentode Jogos Avançado](https://www.alura.com.br/curso-online-pentest-explorando-vulnerabilidades-aplicacoes-web)
+- [Dio: Desenvolvimento de Jogos com Java Sprit](https://www.alura.com.br/curso-online-pentest-vulnerabilidades-servidor-aplicacoes-web)
+- [Dio: Programação HTML](https://www.alura.com.br/curso-online-seguranca-rede-firewall-waf-siem)
 
 ##
 <div>
-  <a href="https://github.com/camilafernanda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilafernanda&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilafernanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/souzavinii">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzavinii&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=souzavinii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ##
