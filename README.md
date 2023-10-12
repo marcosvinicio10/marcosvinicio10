@@ -27,10 +27,10 @@
 
 #### Cursos
 
-- [AfroGames: Desenvolvimento de Jogos Basico](https://www.alura.com.br/curso-online-desenvolvimento-seguro-estrategias-seguranca-dados-entrada)
-- [AfroGames: Desenvolvimentode Jogos Avançado](https://www.alura.com.br/curso-online-pentest-explorando-vulnerabilidades-aplicacoes-web)
-- [Dio: Desenvolvimento de Jogos com Java Spript](https://www.alura.com.br/curso-online-pentest-vulnerabilidades-servidor-aplicacoes-web)
-- [Dio: Programação HTML](https://www.alura.com.br/curso-online-seguranca-rede-firewall-waf-siem)
+- [AfroGames: Desenvolvimento de Jogos Basico](https://afrogames.com.br/)
+- [AfroGames: Desenvolvimentode Jogos Avançado](https://afrogames.com.br/)
+- [Dio: Desenvolvimento de Jogos com Java Spript](https://www.dio.me/bootcamp/potencia-tech-ifood-programacao-do-zero)
+- [Dio: Programação HTML](https://www.dio.me/bootcamp/potencia-tech-ifood-programacao-do-zero)
 
 ##
 <div>
