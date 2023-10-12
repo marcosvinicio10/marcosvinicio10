@@ -1,4 +1,6 @@
-### Hi there 👋
+### Marcos Vinicio 
+Desenvolvedor de Jogos pela AfroGames![gencraft_image_1696889524127-1](https://github.com/souzavinii/souzavinii/assets/141582289/f5593dcc-802f-4d14-b4c1-7a63ec974d61)
+
 
 <!--
 **souzavinii/souzavinii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
