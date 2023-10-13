@@ -13,7 +13,7 @@
   <a href="https://instagram.com/souza.vinizin?igshid=OGQ5ZDc2ODk2ZA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "marcosouzavini2018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-v-oliveira-9a40b5271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></
-<img src="https://views.whatilearened.today/views/github/camilafernanda/views.svg"> <a href="https://github.com/camilafernanda/"><img src="https://img.shields.io/github/followers/camilafernanda?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+<img src="https://img.shields.io/github/followers/camilafernanda?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
 </p>
 
 ### Ferramentas e Tecnologias
