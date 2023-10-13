@@ -22,9 +22,9 @@
 
 #### Cursos
 
--[AfroGames: Desenvolvimento de Jogos Basico](https://afrogames.com.br/)
--[AfroGames: Desenvolvimentode Jogos Avançado](https://afrogames.com.br)
--[Potencia Tech Ifood Dio: Desenvolvimento de Jogos com Java Spript](https://www.dio.me/bootcamp/potencia-tech-ifood-programacao-do-zero)
+- [AfroGames: Desenvolvimento de Jogos Basico](https://afrogames.com.br/)
+- [AfroGames: Desenvolvimentode Jogos Avançado](https://afrogames.com.br)
+- [Potencia Tech Ifood Dio: Desenvolvimento de Jogos com Java Spript](https://www.dio.me/bootcamp/potencia-tech-ifood-programacao-do-zero)
 - [Potência Tech Ifood Dio: Programação HTML e CSS](https://www.dio.me/bootcamp/potencia-tech-ifood-programacao-do-zero)
 
 ##
