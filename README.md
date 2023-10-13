@@ -24,8 +24,7 @@
 
 - [AfroGames: Desenvolvimento de Jogos Basico](https://afrogames.com.br/)
 - [AfroGames: Desenvolvimentode Jogos Avançado](https://afrogames.com.br/)
-- [Dio: Desenvolvimento de Jogos com Java Spript](https://www.dio.me/bootcamp/potencia-tech-ifood-programacao-do-zero)
-- [Dio: Programação HTML](https://www.dio.me/bootcamp/potencia-tech-ifood-programacao-do-zero)
+- [Potencia Tech Ifood Dio: Desenvolvimento de Jogos com Java Spript e Programação Html e Css](https://www.dio.me/bootcamp/potencia-tech-ifood-programacao-do-zero)
 
 
 ##
