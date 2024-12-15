@@ -1,31 +1,59 @@
-# Marcos Vinicio
-## Programador Junior | Desenvolvedor de Jogos
+# Marcos Vinicio  
+### Programador Júnior | Desenvolvedor de Jogos | Entusiasta em Ciência de Dados  
 
+👋 Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia, desenvolvimento de jogos e programação. Aqui, você encontrará projetos criativos que desenvolvi ao longo do meu aprendizado e participação em competições como a AfroGames Jam e a Olimpíada Brasileira de Informática.  
 
-### Contatos:
-<div align="center"> 
-  <a hre="https://instagram.com/souza.vinizin?igshid=OGQ5ZDc2ODk2ZA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "marcosouzavini2018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcos-v-oliveira-9a40b5271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></
-<img src="https://img.shields.io/github/followers/camilafernanda?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
-</p>
+---
 
-### Ferramentas e Tecnologias
+## 📫 Contatos  
+Entre em contato comigo através das plataformas abaixo:  
+<div align="left">  
+  <a href="https://instagram.com/souza.vinizin?igshid=OGQ5ZDc2ODk2ZA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  
+  <a href="mailto:marcosouzavini2018@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>  
+  <a href="https://www.linkedin.com/in/marcos-v-oliveira-9a40b5271" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+  <a href="https://github.com/marcosvinicio10" target="_blank"><img src="https://img.shields.io/github/followers/marcosvinicio10?color=green&label=GitHub%20Followers&style=for-the-badge"></a>  
+</div>  
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="160" height="80"/> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" width="160" height="80"/> 
+---
 
-#### Cursos
+## 🛠️ Ferramentas e Tecnologias  
+Aqui estão algumas das ferramentas e tecnologias que uso no meu dia a dia:  
+<div align="left">  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
+</div>  
 
-- [AfroGames: Desenvolvimento de Jogos Basico](https://afrogames.com.br/)
-- [AfroGames: Desenvolvimentode Jogos Avançado](https://afrogames.com.br)
-- [Potencia Tech Ifood Dio: Desenvolvimento de Jogos com Java Spript](https://www.dio.me/bootcamp/potencia-tech-ifood-programacao-do-zero)
-- [Potência Tech Ifood Dio: Programação HTML e CSS](https://www.dio.me/bootcamp/potencia-tech-ifood-programacao-do-zero)
+---
 
-##
-<div>
-  <a href="https://github.com/marcosvinicio10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvinicio10&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosvinicio10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+## 🏆 Conquistas  
+- **Finalista Brasileiro na Olimpíada Brasileira de Informática (OBI):** Teste de habilidades em Python e lógica de programação.  
+- **Melhor Projeto Ambiental do Rio de Janeiro:** NASA Space Apps Challenge.  
+- **Três vezes Vice-Campeão:** AfroGames Jam, desenvolvendo jogos criativos sob pressão.  
 
-##
+---
+
+## 📚 Cursos Concluídos  
+Aqui estão alguns dos cursos que me ajudaram a desenvolver minhas habilidades:  
+- **[AfroGames: Desenvolvimento de Jogos Básico](https://afrogames.com.br/)**  
+- **[AfroGames: Desenvolvimento de Jogos Avançado](https://afrogames.com.br/)**  
+- **[Potência Tech Ifood Dio: Desenvolvimento de Jogos com JavaScript](https://www.dio.me/bootcamp/potencia-tech-ifood-programacao-do-zero)**  
+- **[Potência Tech Ifood Dio: Programação HTML e CSS](https://www.dio.me/bootcamp/potencia-tech-ifood-programacao-do-zero)**  
+- **Introdução à Ciência de Dados:** Comunidade Data Science  
+
+---
+
+## 📊 Estatísticas do GitHub  
+<div align="left">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvinicio10&layout=compact&langs_count=7&theme=dark"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosvinicio10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
+</div>  
+
+---
+
+## 🌱 Sobre Mim  
+Sou um jovem de 16 anos do Rio de Janeiro com uma paixão por resolver problemas e criar experiências digitais. Tenho interesse em trabalhar com tecnologia, principalmente em áreas como desenvolvimento de jogos, ciência de dados e programação web. Meu objetivo é continuar aprendendo e contribuindo para projetos inovadores.  
+
+Explore meus repositórios para saber mais sobre meu trabalho e, se você tiver alguma ideia ou projeto colaborativo, sinta-se à vontade para entrar em contato! 🚀  
