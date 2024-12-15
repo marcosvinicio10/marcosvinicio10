@@ -1,7 +1,7 @@
 # Marcos Vinicio  
 ### Programador Júnior | Desenvolvedor de Jogos | Entusiasta em Ciência de Dados  
 
-👋 Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia, desenvolvimento de jogos e programação. Aqui, você encontrará projetos criativos que desenvolvi ao longo do meu aprendizado e participação em competições como a AfroGames Jam e a Olimpíada Brasileira de Informática.  
+👋 Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia, desenvolvimento de jogos e programação. Aqui, você encontrará projetos criativos que desenvolvi ao longo do meu aprendizado e participação em competições.
 
 ---
 
@@ -23,24 +23,19 @@ Aqui estão algumas das ferramentas e tecnologias que uso no meu dia a dia:
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
-</div>  
 
 ---
 
 ## 🏆 Conquistas  
 - **Finalista Brasileiro na Olimpíada Brasileira de Informática (OBI):** Teste de habilidades em Python e lógica de programação.  
 - **Melhor Projeto Ambiental do Rio de Janeiro:** NASA Space Apps Challenge.  
-- **Três vezes Vice-Campeão:** AfroGames Jam, desenvolvendo jogos criativos sob pressão.  
+- **Três vezes Vice-Campeão:** AfroGames Jam, desenvolvendo jogos criativos.  
 
 ---
 
 ## 📚 Cursos Concluídos  
 Aqui estão alguns dos cursos que me ajudaram a desenvolver minhas habilidades:  
-- **[AfroGames: Desenvolvimento de Jogos Básico](https://afrogames.com.br/)**  
-- **[AfroGames: Desenvolvimento de Jogos Avançado](https://afrogames.com.br/)**  
-- **[Potência Tech Ifood Dio: Desenvolvimento de Jogos com JavaScript](https://www.dio.me/bootcamp/potencia-tech-ifood-programacao-do-zero)**  
-- **[Potência Tech Ifood Dio: Programação HTML e CSS](https://www.dio.me/bootcamp/potencia-tech-ifood-programacao-do-zero)**  
+- **[AfroGames: Desenvolvimento de Jogos ]** 
 - **Introdução à Ciência de Dados:** Comunidade Data Science  
 
 ---
