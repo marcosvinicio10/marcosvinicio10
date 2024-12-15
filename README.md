@@ -29,21 +29,6 @@ Aqui estão algumas das ferramentas e tecnologias que uso:
 
 ---
 
-## 🏆 Conquistas  
-- **Finalista Brasileiro na Olimpíada Brasileira de Informática (OBI):** Teste de habilidades em Python e lógica de programação.  
-- **Melhor Projeto Ambiental do Rio de Janeiro:** NASA Space Apps Challenge.  
-- **Três vezes Vice-Campeão:** AfroGames Jam, desenvolvendo jogos criativos.  
-
----
-
-## 📚 Cursos Concluídos  
-Aqui estão alguns dos cursos que me ajudaram a desenvolver minhas habilidades:  
-- **Desenvolvimento de Jogos:** AfroGames  
-- **Introdução à Ciência de Dados:** Comunidade Data Science  
-- **Programação em Python:** CESF RJ  
-- **Programação em C++:** UFRJ  
-
----
 
 ## 📊 Estatísticas do GitHub  
 <div align="left">  
