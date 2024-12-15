@@ -17,7 +17,7 @@ Entre em contato comigo através das plataformas abaixo:
 ---
 
 ## 🛠️ Ferramentas e Tecnologias  
-Aqui estão algumas das ferramentas e tecnologias que uso no meu dia a dia:  
+Aqui estão algumas das ferramentas e tecnologias que uso:  
 <div align="left">  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">  
@@ -35,10 +35,10 @@ Aqui estão algumas das ferramentas e tecnologias que uso no meu dia a dia:
 
 ## 📚 Cursos Concluídos  
 Aqui estão alguns dos cursos que me ajudaram a desenvolver minhas habilidades:  
-- **[AfroGames: Desenvolvimento de Jogos ]** 
-- **Introdução à Ciência de Dados:** Comunidade Data Science  
-
----
+- **Desenvolvimento de Jogos** AfroGames
+- **Introdução à Ciência de Dados:** Comunidade Data Science
+- **Programação em Python:** CESF RJ
+- **Programação em C++:** UFRJ 
 
 ## 📊 Estatísticas do GitHub  
 <div align="left">  
