@@ -6,7 +6,6 @@
 ---
 
 ## 📫 Contatos  
-Entre em contato comigo através das plataformas abaixo:  
 <div align="left">  
   <a href="https://instagram.com/souza.vinizin?igshid=OGQ5ZDc2ODk2ZA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  
   <a href="mailto:marcosouzavini2018@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>  
@@ -17,7 +16,6 @@ Entre em contato comigo através das plataformas abaixo:
 ---
 
 ## 🛠️ Ferramentas e Tecnologias  
-Aqui estão algumas das ferramentas e tecnologias que uso:  
 <div align="left">  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">  
@@ -36,6 +34,6 @@ Aqui estão algumas das ferramentas e tecnologias que uso:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosvinicio10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
 </div>  
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
