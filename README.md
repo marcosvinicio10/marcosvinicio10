@@ -35,3 +35,7 @@ Aqui estão algumas das ferramentas e tecnologias que uso:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvinicio10&layout=compact&langs_count=7&theme=dark"/>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosvinicio10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
 </div>  
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+
