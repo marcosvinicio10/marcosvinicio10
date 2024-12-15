@@ -1,7 +1,7 @@
 # Marcos Vinicio  
 ### Programador Júnior | Desenvolvedor de Jogos | Entusiasta em Ciência de Dados  
 
-👋 Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia, desenvolvimento de jogos e programação. Aqui, você encontrará projetos criativos que desenvolvi ao longo do meu aprendizado e participação em competições.
+👋 Bem-vindo ao meu perfil do GitHub! Sou um jovem programador júnior com habilidades em Python,Desenvolvimento Web e de Jogos
 
 ---
 
@@ -47,8 +47,3 @@ Aqui estão alguns dos cursos que me ajudaram a desenvolver minhas habilidades:
 </div>  
 
 ---
-
-## 🌱 Sobre Mim  
-Sou um jovem de 16 anos do Rio de Janeiro com uma paixão por resolver problemas e criar experiências digitais. Tenho interesse em trabalhar com tecnologia, principalmente em áreas como desenvolvimento de jogos, ciência de dados e programação web. Meu objetivo é continuar aprendendo e contribuindo para projetos inovadores.  
-
-Explore meus repositórios para saber mais sobre meu trabalho e, se você tiver alguma ideia ou projeto colaborativo, sinta-se à vontade para entrar em contato! 🚀  
