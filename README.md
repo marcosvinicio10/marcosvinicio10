@@ -1,5 +1,5 @@
 # Marcos Vinicio  
-### Programador Júnior | Desenvolvedor de Jogos | Aprendiz em Ciência de Dados  
+### Programador Júnior | Desenvolvedor de Jogos 
 
 👋 Bem-vindo ao meu perfil do GitHub! Sou um jovem programador júnior com habilidades em Python, Desenvolvimento Web e de Jogos.  
 
