@@ -1,7 +1,7 @@
 # Marcos Vinicio  
-### Programador Júnior | Desenvolvedor de Jogos 
+### Software Developer| Game Developer
 
-👋 Bem-vindo ao meu perfil do GitHub! Sou um Software Developer com habilidades em Python, Desenvolvimento Web e Games.  
+👋 Bem-vindo ao meu perfil do GitHub! Sou um Programador com habilidades em Python, Desenvolvimento Web e Games.  
 
 ---
 
