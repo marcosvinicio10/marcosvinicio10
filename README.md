@@ -1,5 +1,5 @@
 # Marcos Vinicio  
-### Software Developer| Game Developer
+### Game Developer & Competitive Programming Mentor
 
 👋 Bem-vindo ao meu perfil do GitHub! Sou um Programador com habilidades em Python, Desenvolvimento Web e Games.  
 
