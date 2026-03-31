@@ -1,7 +1,5 @@
 # Marcos Vinicio  
-### Software & Game Developer | Competitive Programming Mentor
-
-👋 Bem-vindo ao meu perfil do GitHub! Sou um Programador com habilidades em Python, Desenvolvimento Web e Games.  
+### Software Developer | Competitive Programming Mentor  
 
 ---
 
@@ -25,12 +23,3 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">    
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">    
 </div>
-
----
-
-
-## 📊 Estatísticas do GitHub  
-<div align="left">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvinicio10&layout=compact&langs_count=7&theme=dark"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosvinicio10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
-</div>  
