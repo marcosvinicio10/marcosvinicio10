@@ -1,5 +1,5 @@
 # Marcos Vinicio  
-### Software Developer | Competitive Programming Mentor  
+### Software Developer
 
 ---
 
