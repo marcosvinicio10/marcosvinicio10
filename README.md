@@ -9,8 +9,8 @@
 
 ## Honors & Achievements
 
-🏅 Brazilian Olympiad in Informatics — Finalist <br>
-🏅 Brazilian Olympiad in Physics — Finalist <br>
+🏅 Brazilian Olympiad in Informatics — National Finalist <br>
+🏅 Brazilian Olympiad in Physics — National Finalist <br>
 🥇 Brazilian Olympiad in Astronomy and Astrophysics — Gold Medal <br>
 🥉 Brazilian National Science Olympiad — Bronze Medal <br>
 
