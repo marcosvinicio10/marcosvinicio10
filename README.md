@@ -1,18 +1,18 @@
 # Hi there, I'm Marcos Vinicio 👋
 
 🇧🇷 From Rio de Janeiro, Brazil <br>
-🎓 High School in Mathematics and Science Student <br>
-💻 Software Developer at AfroGames Studios <br>
-🏆 Competitive Programming Mentor at Centro Educacional Silva Florêncio <br>
+- High School in Mathematics and Science Student <br>
+- Software Developer at AfroGames Studios <br>
+- Competitive Programming Mentor at Centro Educacional Silva Florêncio <br>
 
 ---
 
 ## Honors & Achievements
 
-🏅 Brazilian Olympiad in Informatics — National Finalist <br>
-🏅 Brazilian Olympiad in Physics — National Finalist <br>
-🥇 Brazilian Olympiad in Astronomy and Astrophysics — Gold Medal <br>
-🥉 Brazilian National Science Olympiad — Bronze Medal <br>
+- Brazilian Olympiad in Informatics — National Finalist <br>
+- Brazilian Olympiad in Physics — National Finalist <br>
+- Brazilian Olympiad in Astronomy and Astrophysics — Gold Medal <br>
+- Brazilian National Science Olympiad — Bronze Medal <br>
 
 ---
 
