@@ -1,24 +1,35 @@
-# Marcos Vinicio  
-### Software Developer
+# Hi there, I'm Marcos Oliveira 👋
+
+🇧🇷 From Rio de Janeiro, Brazil
+🎓 High School in Mathematics and Science Student
+💻 Software Developer at AfroGames Studios
+🏆 Competitive Programming Mentor at Centro Educacional Silva Florêncio
 
 ---
 
-## 📫 Contatos  
-<div align="left">  
-  <a href="https://www.instagram.com/marcos.vinicio10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  
-  <a href="mailto:marcosouzavini2018@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-</div>  
+## About Me
+
+I'm passionate about using technology, mathematics, and science to create impactful solutions.
+
+Currently, I work with software development at AfroGames Studios while also mentoring students in competitive programming at Centro Educacional Silva Florêncio.
+
+In parallel, I develop research projects focused on urban data from Rio de Janeiro, aiming to predict disasters and help solve urban challenges through Computer Science, geospatial analysis, and data-driven approaches.
 
 ---
 
-## 🛠️ Ferramentas e Tecnologias  
-<div align="left">  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">  
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">  
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">    
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">    
-</div>
+## Honors & Achievements
+
+🏅 Brazilian Olympiad in Physics — Finalist
+🏅 Brazilian Olympiad in Informatics — Finalist
+🥇 Brazilian Olympiad in Astronomy and Astrophysics — Gold Medal
+🥉 Brazilian National Science Olympiad — Bronze Medal
+
+---
+
+## Technologies & Languages
+
+```txt
+C++ • Python • C# • HTML • CSS • JavaScript • Vue
+```
+
+---
