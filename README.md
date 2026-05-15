@@ -7,14 +7,6 @@
 
 ---
 
-## About Me
-
-Currently, I work with software development at AfroGames Studios while also mentoring students in competitive programming at Centro Educacional Silva Florêncio.
-
-In parallel, I develop research projects focused on urban data from Rio de Janeiro, aiming to help solve urban challenges through technology.
-
----
-
 ## Honors & Achievements
 
 🏅 Brazilian Olympiad in Informatics — Finalist <br>
