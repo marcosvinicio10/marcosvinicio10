@@ -1,4 +1,4 @@
-# Hi there, I'm Marcos Oliveira 👋
+# Hi there, I'm Marcos Vinicio 👋
 
 🇧🇷 From Rio de Janeiro, Brazil
 🎓 High School in Mathematics and Science Student
