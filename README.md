@@ -1,9 +1,9 @@
 # Hi there, I'm Marcos Vinicio 👋
 
 🇧🇷 From Rio de Janeiro, Brazil <br>
-- High School in Mathematics and Science Student <br>
+- High School in Mathematics and Science <br>
 - Software Developer at AfroGames Studios <br>
-- Competitive Programming Mentor at Centro Educacional Silva Florêncio <br>
+- Programming Mentor <br>
 
 ---
 
