@@ -3,7 +3,7 @@
 🇧🇷 From Rio de Janeiro, Brazil <br>
 - High School in Mathematics and Science <br>
 - Software Developer at AfroGames Studios <br>
-- Programming Mentor <br>
+- Competitive Programmer <br>
 
 ---
 
